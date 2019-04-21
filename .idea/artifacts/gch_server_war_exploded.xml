@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="gch_server:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/gch_server_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="gch_server/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="gch_server" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
